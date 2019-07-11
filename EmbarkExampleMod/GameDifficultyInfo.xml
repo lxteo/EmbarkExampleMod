@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Any xml files inside your mod's folder will be loaded if they have the same name as one of Embark's XML files.
+Each entry will be replaced if found and it has the same id as a default entry. In this example we will replace Easy difficulty to stop enemy encounters. Changing the name and id to unique values will add a new entry.
+The rest of the difficulties will default to the game's default settings.
+-->
+<ArrayOfGameDifficultyInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameDifficultyInfo>
+    <id>1</id>
+    <name>Easy</name>
+    <description>Easy difficulty</description>
+    <rarity>1</rarity>
+    <meshName>hatchet</meshName>
+    <tint>
+      <r>1</r>
+      <g>1</g>
+      <b>1</b>
+      <a>1</a>
+    </tint>
+
+    <plantGrowthMultiplier>1.5</plantGrowthMultiplier>
+    <itemBuildSpeedMultiplier>1.5</itemBuildSpeedMultiplier>
+    <digSpeedMultiplier>1.1</digSpeedMultiplier>
+    <levelSpeedModifier>1</levelSpeedModifier>
+    <buildSpeedModifier>1</buildSpeedModifier>
+    <happinessBonus>1.1</happinessBonus>
+    <enemyDamageEffectiveness>0.7</enemyDamageEffectiveness>
+    <waveProgressionSpeed>20</waveProgressionSpeed>
+    <enemyMeanTimeToAttack>9999</enemyMeanTimeToAttack> <!--Changed-->
+    <numStartingCharacters>6</numStartingCharacters>
+    <startingPoints>7000</startingPoints>
+    <numStartingPlants>12</numStartingPlants>
+    <numCarnivoreAnimals>150</numCarnivoreAnimals>
+    <numVegetarianAnimals>500</numVegetarianAnimals>
+    <numMonsters>200</numMonsters>
+    <numCamps>100</numCamps>
+  </GameDifficultyInfo>
+</ArrayOfGameDifficultyInfo>
