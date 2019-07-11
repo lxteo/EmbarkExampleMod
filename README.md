@@ -1,5 +1,5 @@
 # ModInfo.xml
-This must be included in every mod with name and description tags. Place it, and any other files inside %userprofile%\appdata\locallow\embark\embark\mods\(your mod name) folder. Mods can include any combination of the options below.
+This must be included in every mod with name and description tags. Place it, and any other files inside %userprofile%\appdata\locallow\embark\embark\mods\\(your mod name) folder. Mods can include any combination of the options below. You may include an image file named screenshot.jpg/png inside to be used as the steam workshop preview image. You should then see your mod inside the mod panel when you run Embark. Use that to upload your mod to the Steam workshop when you are happy with your mod.
 
 # Changes to XML
 A lot of Embark's gameplay can be changed simply by changing the XML files in the StreamingAssets folder. Any xml files inside your mod's folder will be loaded if they have the same name as one of Embark's XML files.
