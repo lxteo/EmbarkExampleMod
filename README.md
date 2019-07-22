@@ -12,5 +12,8 @@ Assembly-CSharp.dll, the UnityEngine dlls of choice. For further guidance there 
 # Saving Data
 If your mod requires persistant data to be saved with each save game you can do so easily by implementing the IModDataSerializer interface like in the ModDataSerializer.cs interface. Reference protobuf-net.dll in the game folder for easy serialization of any data (although you can do it however you like). More about protobuf here: https://github.com/protobuf-net/protobuf-net
 
+# Localization
+A localizaiton mod would include a localization.csv file and a ModInfo.xml file. Use the example localization.csv to see the terms used by Embark. Contact me if you want to translate languages which require special characters.
+
 # Changes to art assets
 Not available yet.
