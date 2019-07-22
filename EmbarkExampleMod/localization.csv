@@ -1,0 +1,1269 @@
+Key,Type,Desc,English,Chinese
+Active,Text,,Active,开启
+Add Child,Text,,Add Child,添加孩子
+Add Perk,Text,,Add Perk,添加额外
+Add Spouse,Text,,Add Spouse,添加配偶
+Add Worker,Text,,Add Worker,添加工人
+Age,Text,,Age,年龄
+Aggressive,Text,,Aggressive,侵略性
+All,Text,,All,所有
+All selected plants will be destroyed immediately.,Text,,All selected plants will be destroyed immediately.,所选植物将被立即摧毁
+Alpha,Text,,Alpha,数字键
+Are you sure? Progress since your last save will be lost.,Text,,Are you sure? Progress since your last save will be lost.,自上次保存以后的进度将丢失，您确定吗？
+Arms,Text,,Arms,武器
+Assigned,Text,,Assigned,分配
+Attack speed,Text,,Attack speed,攻击速度
+Attitude,Text,,Attitude,态度
+Audio,Text,,Audio,声音
+Back,Text,,Back,返回
+Bag Size,Text,,Bag Size,背包尺寸
+Base,Text,,,
+Bases,Text,,Bases,基地
+Beds,Text,,Beds,床
+Behaviour,Text,,Behaviour,行为
+Big,Text,,Big,大
+Blood,Text,,Blood,血
+Blunt Damage,Text,,Blunt Damage,钝伤
+Body,Text,,Body,身体
+Build on top of existing terrain or right click to remove build wall orders.,Text,,Build on top of existing terrain or right click to remove build wall orders.,在现有地形上建造或单击右键来移除建造墙的命令。
+BuildingInfo/Animal Pen,Text,,Animal Pen,动物畜栏
+BuildingInfo/Animal Pen__tooltip,Text,,Animal breeders use the animal pen to tame and care for livestock.,伺养者利用动物畜栏来驯养和照料牲畜。
+BuildingInfo/Ballista,Text,,Ballista,弩炮
+BuildingInfo/Ballista__tooltip,Text,,Fires bolts at approaching enemies. Must be manned by a colonist and supplied with ballista bolts.,以向接近的敌人发射螺栓。必须由殖民者操控并提供螺栓。
+BuildingInfo/Bed,Text,,Bed,床
+BuildingInfo/Bed__tooltip,Text,,Wooden bed built for maximum comfort and pleasure. Higher quality beds improve mood and recover energy faster.,舒适的木床可以提高满意度。高质量的床可以改善心情，更快地恢复精力。
+BuildingInfo/Blacksmith,Text,,Blacksmith,铁匠
+BuildingInfo/Blacksmith__tooltip,Text,,For crafting armour and weapons using metal,铁匠能够使用金属来制造盔甲和武器。
+BuildingInfo/Bookshelf,Text,,Bookshelf,书架
+BuildingInfo/Bookshelf__tooltip,Text,,Bookshelves provide entertainment and allow skilled workers to teach others. Paper is required to write books.,书架能够提供娱乐，并允许传授高熟练度技能。编写书籍需要消耗纸张。
+BuildingInfo/Bowyer,Text,,Bowyer,制弓匠
+BuildingInfo/Bowyer__tooltip,Text,,For crafting ranged weapons and their ammunition.,制弓匠能够制作远程武器及其弹药。
+BuildingInfo/Burning Oil,Text,,Burning Oil,燃烧的油
+BuildingInfo/Burning Oil__tooltip,Text,,Defensive building,防御性建筑
+BuildingInfo/Campfire,Text,,Campfire,营火
+BuildingInfo/Campfire__tooltip,Text,,Quick source of heat.,快速的热源
+BuildingInfo/Carpenter's Workshop,Text,,Carpenter's Workshop,木工台
+BuildingInfo/Carpenter's Workshop__tooltip,Text,,For processing of raw logs into planks and other wooden items,木工台可将原木加工成木板及其他木制品。
+BuildingInfo/Catapult,Text,,Catapult,石弩
+BuildingInfo/Catapult__tooltip,Text,,Fires rocks at approaching enemies in a high arc. Must be manned by a colonist and supplied with blocks.,以高角度向接近的敌人发射石块。必须由殖民者操控并提供石块。
+BuildingInfo/Chair,Text,,Chair,椅子
+BuildingInfo/Chair__tooltip,Text,,Wooden or stone chair,木制或石制椅子
+BuildingInfo/Chest,Text,,Chest,箱子
+BuildingInfo/Chest__tooltip,Text,,Workers will store unused equipment and tools here,工人将闲置的设备和工具存放在这里。
+BuildingInfo/Crafter's Workshop,Text,,Crafter's Workshop,制作台
+BuildingInfo/Crafter's Workshop__tooltip,Text,,Crafter's assemble processed items into tools and weapons here.,工匠将加工过的物品在这里组装成工具和武器。
+BuildingInfo/Curtain,Text,,Curtain,窗帘
+BuildingInfo/Curtain 2,Text,,Curtain,窗帘
+BuildingInfo/Curtain 2__tooltip,Text,,Improves room decor,改善房间的装饰
+BuildingInfo/Curtain__tooltip,Text,,Improves room decor,改善房间的装饰
+BuildingInfo/Door,Text,,Door,门
+BuildingInfo/Door__tooltip,Text,,Basic wooden door that comes with a lock,带锁的基础木门
+BuildingInfo/Double Bed,Text,,Double Bed,双人床
+BuildingInfo/Double Bed__tooltip,Text,,Double bed for couples,双人床
+BuildingInfo/Evaporative Cooler,Text,,Evaporative Cooler,蒸发冷却器
+BuildingInfo/Evaporative Cooler__tooltip,Text,,Cools down rooms. Requires connection to water source through pipes.,能够冷却房间。需要通过管道连接水源。
+BuildingInfo/Fence,Text,,Fence,围栏
+BuildingInfo/Fence__tooltip,Text,,Wooden fences make a quick 2 block high barrier,高度为2个方块的木质屏障
+BuildingInfo/Fireplace,Text,,Fireplace,火炉
+BuildingInfo/Fireplace__tooltip,Text,,Source of heat. More efficient than the camp fire.,热源。比营火更有效率。
+BuildingInfo/Furnace,Text,,Furnace,熔炉
+BuildingInfo/Furnace__tooltip,Text,,Smelters produce metal ingots from metal ore here. Also burns or melts down unwanted items.,能够熔炼金属矿石并生产金属锭。还可以烧毁或熔化不需要的物品。
+BuildingInfo/Gate,Text,,Gate,门
+BuildingInfo/Gate__tooltip,Text,,Entrance to your fenced area,通过门以进入围栏内
+BuildingInfo/Grate,Text,,Grate,通风管道
+BuildingInfo/Grate__tooltip,Text,,Allows airflow and blocks off rooms. Opens for colonists to crawl through.,阻隔房间但允许气流通过。殖民者能够爬行通过。
+BuildingInfo/Grave,Text,,The Fall,坟墓
+BuildingInfo/Grave__tooltip,Text,,Simple grave,简单的坟墓
+BuildingInfo/Jeweller's Workshop,Text,,Jeweller's Workshop,珠宝切割台
+BuildingInfo/Jeweller's Workshop__tooltip,Text,,For cutting raw gems to produce jewelry and trinkets.,能够切割珠宝原石来生产珠宝和小饰品。
+BuildingInfo/Kitchen,Text,,Kitchen,厨房
+BuildingInfo/Kitchen__tooltip,Text,,Cooks turn raw food into meals here.,厨师能够在这里将生食做成熟食。
+BuildingInfo/Ladder,Text,,Ladder,梯子
+BuildingInfo/Ladder__tooltip,Text,,Allows colonists to move up and down freely.,允许殖民者能够自由上下移动。
+BuildingInfo/Loom,Text,,Loom,织布机
+BuildingInfo/Loom__tooltip,Text,,Weavers process raw fiber into cloth or rope. Cloth can then be made into bags or clothing.,纺织工将原纤维加工成布或绳，进而将布制成袋子或衣服。
+BuildingInfo/Mason's Workshop,Text,,Mason's Workshop,石匠台
+BuildingInfo/Mason's Workshop__tooltip,Text,,Mason's turn raw stone into blocks and stone walls.,石匠将原石加工成石块和石墙。
+BuildingInfo/Mechanism,Text,,Mechanism,机械构件
+BuildingInfo/Mechanism__tooltip,Text,,Required to connect water pumps to windmills.,需要将水泵连接至风车。
+BuildingInfo/Meeting Room,Text,,Meeting Room,会议室
+BuildingInfo/Meeting Room__tooltip,Text,,Designated point for trade and first contact with other factions. The quality of the meeting room impresses visiting factions and increases the chance of positive interactions.,与其他势力首次接触及指定交易点。高质量的会议室会给来访势力留下深刻印象，能够未来增加积极互动的机会。
+BuildingInfo/Painting,Text,,Painting,绘画
+BuildingInfo/Painting 2,Text,,Painting,绘画
+BuildingInfo/Painting 2__tooltip,Text,,Increases room decor,改善房间的装饰
+BuildingInfo/Painting__tooltip,Text,,Increases room decor,改善房间的装饰
+BuildingInfo/Research Lab,Text,,Research Lab,研究台
+BuildingInfo/Research Lab__tooltip,Text,,Researchers research in the research lab,殖民者使用研究台进行研究。
+BuildingInfo/Salt Works,Text,,Salt Works,盐工坊
+BuildingInfo/Salt Works__tooltip,Text,,For producing salt and fresh water from salt water. Requires a pipe connection to salty water.,用于从咸水中生产盐和淡水。需要管道连接至咸水。
+BuildingInfo/Sculpture,Text,,Sculpture,雕像
+BuildingInfo/Sculpture 2,Text,,Sculpture,雕像
+BuildingInfo/Sculpture 2__tooltip,Text,,Increases room decor,改善房间的装饰
+BuildingInfo/Sculpture__tooltip,Text,,Increases room decor,改善房间的装饰
+BuildingInfo/Still,Text,,Still,酿酒台
+BuildingInfo/Still__tooltip,Text,,Brewers make drinks here. Requires a pipe connection to fresh water.,酿酒师在这里酿酒。需要管道连接至淡水。
+BuildingInfo/Stone Gate,Text,,Stone Gate,石门
+BuildingInfo/Stone Gate__tooltip,Text,,Large stone gate for better defense.,石门可以更好地防御敌人。
+BuildingInfo/Stone Stairs,Text,,Stone Stairs,石台阶
+BuildingInfo/Stone Stairs__tooltip,Text,,Stairs improve walking speed.,能够提高在行走在上面的速度。
+BuildingInfo/Table,Text,,Table,桌子
+BuildingInfo/Table__tooltip,Text,,Small wooden or stone table for eating or drinking.,用于就餐的木桌或石桌。
+BuildingInfo/Torch,Text,,Torch,火把
+BuildingInfo/Torch__tooltip,Text,,Light source to brighten up an area,能够照亮一片区域的光源。
+BuildingInfo/Vase,Text,,Vase,花瓶
+BuildingInfo/Vase__tooltip,Text,,Increases room decor,改善房间的装饰
+BuildingInfo/Water Pipe,Text,,Water Pipe,水管
+BuildingInfo/Water Pipe__tooltip,Text,,Connects water pumps or water sources to buildings which require water.,连接需水建筑物至水泵或水源。
+BuildingInfo/Water Pump,Text,,Water Pump,水泵
+BuildingInfo/Water Pump__tooltip,Text,,Pumps water from input to output. Pipes should be connected to the input and output. Requires connection to a windmill with mechanisms.,水泵能够输送水。两端需要连接水管。需要连接至风车。
+BuildingInfo/Windmill,Text,,Windmill,风车
+BuildingInfo/Windmill__tooltip,Text,,Windmills power water pumps. Ensure that both the front and back of the windmill is not obstructed.,风车能够驱动水泵。确保风车前后没有阻挡物。
+BuildingInfo/Window,Text,,Window,窗户
+BuildingInfo/Window__tooltip,Text,,Windows let natural light into rooms.,窗户能够让自然光进入房间。
+BuildingInfo/Wooden Stairs,Text,,Wooden Stairs,木台阶
+BuildingInfo/Wooden Stairs__tooltip,Text,,Stairs improve walking speed.,能够提高在行走在上面的速度。
+Bulky,Text,,Bulky,笨重的
+CONSCIOUSNESS,Text,,Consciousness,意识
+Cancel demolition,Text,,Cancel demolition,取消拆除
+Changelog,Text,,Changelog,更新日志
+Claim,Text,,Claim,取消禁用
+Claim All,Text,,Claim All,全部取消禁用
+Clear,Text,,Clear,清除
+Clear All,Text,,Clear All,全部清除
+Click on planet to select embark location. {0} to rotate the globe.,Text,,Click on planet to select embark location. {0} to rotate the globe.,点击星球选择登录位置。{0}旋转星球。
+Component(s),Text,,Component(s),组件
+Construction,Text,,Construction,建造
+Construction Job Needed,Text,,Construction Job Needed,建造需要相关职业
+Continue,Text,,Continue,继续
+Creature,Text,,Creature,生物
+Creature will die if total blood reaches 0.,Text,,Creature will die if total blood reaches 0.,如果血量降至0，生物将会死亡。
+Critical,Text,,Critical,危急
+Crops,Text,,Crops,作物
+Currently Selected,Text,,Currently Selected,当前选中
+Currently selected:,Text,,Currently selected:,当前选中：
+Custom,Text,,Custom,习惯
+Customisation Cost,Text,,Customisation Cost,定制成本
+Customize colonist,Text,,Customize colonist,自定义殖民者
+Customize start,Text,,Customize start,自定义开始
+Decor,Text,,Decor,装饰
+Delete Save,Text,,Delete Save,删除存档
+Demolish,Text,,Demolish,拆除
+Demolishing,Text,,Demolishing,拆除
+Deny Healthcare,Text,,Deny Healthcare,拒绝治疗
+Depth,Text,,Depth,深度
+Description,Text,,Description,描述
+Destroy,Text,,Destroy,破坏
+Details,Text,,Details,细节
+Difficulty,Text,,Difficulty,难度
+Difficulty/Easy,Text,,Easy,简单
+Difficulty/Hard,Text,,Hard,困难
+Difficulty/Insane,Text,,Insane,极难
+Difficulty/Normal,Text,,Normal,正常
+Disabled,Text,,Disabled,禁用
+Distance,Text,,,
+Drink Rations,Text,,Drink Rations,饮料配给
+Edit,Text,,Edit,编辑
+Edit Presets,Text,,Edit Presets,编辑预设
+Email,Text,,Email,电子邮件
+Embark,Text,,Embark,Embark
+Embark uses Unity analytics to automatically collect crash reports.,Text,,Embark uses Unity analytics to automatically collect crash reports.,使用Unity自动收集游戏错误报告
+Embark!,Text,,Embark!,出发！
+Equip,Text,,Equipment,设备
+Equip Squad,Text,,Equip Squad,装备小队
+Event,Text,,Event,事件
+EventNotificationInfo/Animal attack,Text,,Animal attack,动物袭击
+EventNotificationInfo/Argument,Text,,Argument,争执
+EventNotificationInfo/BleedingOut,Text,,Bleeding Out,流血
+EventNotificationInfo/Burning,Text,,Burning,燃烧
+EventNotificationInfo/Cannot find ingredients,Text,,Cannot find ingredients,无法找到配料
+EventNotificationInfo/Combat,Text,,Combat,战斗
+EventNotificationInfo/Demand Tribute,Text,,Demand Tribute,要求进贡
+EventNotificationInfo/First Contact,Text,,First Contact,初次接触
+EventNotificationInfo/Freezing,Text,,Freezing,冷冻
+EventNotificationInfo/Friendship,Text,,Friendship,友谊
+EventNotificationInfo/FriendshipEnded,Text,,Friendship Ended,友谊破裂
+EventNotificationInfo/HandsFull,Text,,Hands Full,不可开交
+EventNotificationInfo/Inaccessible,Text,,Inaccessible,人迹罕至
+EventNotificationInfo/Item improvement,Text,,Item improvement,改进物品
+EventNotificationInfo/Learning,Text,,Learning,学习
+EventNotificationInfo/New Birth,Text,,New Birth,新生
+EventNotificationInfo/No water,Text,,No water,缺水
+EventNotificationInfo/Rescue,Text,,Rescue,营救
+EventNotificationInfo/Research Completed,Text,,Research Completed,研究完成
+EventNotificationInfo/Rivalry,Text,,Rivalry,竞争
+EventNotificationInfo/RivalryEnded,Text,,Rivalry Ended,竞争结束
+EventNotificationInfo/Starving,Text,,Starving,饥饿
+EventNotificationInfo/Survivor found,Text,,Survivor found,发现幸存者
+EventNotificationInfo/Thirsty,Text,,Thirsty,渴
+EventNotificationInfo/Tool Required,Text,,Tool Required,需要工具
+EventNotificationInfo/Trade,Text,,Trade,交易
+EventNotificationInfo/Under Attack!,Text,,Under Attack!,受到攻击！
+EventNotificationInfo/Wedding,Text,,Wedding,婚礼
+Few,Text,,Few,少
+Filter,Text,,Filter,筛选
+Fog,Text,,Tooth,牙齿
+Food,Text,,,
+Food Rations,Text,,Food Rations,口粮
+Forbid,Text,,Forbid,禁止
+Forbidden,Text,,Forbidden,被禁止
+Freshness,Text,,Freshness,新鲜
+Generating height map...,Text,,Generating height map...,生成高度图...
+Graphics,Text,,Graphics,图像
+Hates {0},Text,,Hates {0},讨厌{0}
+Health,Text,,Health,健康
+Healthy,Text,,Healthy,健康
+HoldPosition,Text,,HoldPosition,原地待命
+Hospital Bed,Text,,Hospital Bed,病床
+Huge,Text,,Huge,巨大
+In Bag,Text,,In Bag,在袋子里
+In Stockpile,Text,,In Stockpile,在库存中
+InfoType/Accessible,Text,,Accessible,可进入
+InfoType/Accessible__tooltip,Text,,Workers will mark a spot as inaccesible if they fail to reach it repeatedly.,如果殖民者不能多次到达某个地点，他们会将该地标记为不可进入。
+InfoType/Edible,Text,,Edible,可食用
+InfoType/Edible__tooltip,Text,,Edible plants can be turned into meals in a kitchen.,可食用植物可在厨房中做成食物。
+InfoType/Elevation,Text,,Elevation,海拔
+InfoType/Elevation__tooltip,Text,,Average elevation of region. Higher regions are colder and usually more mountainous.,平均海拔高度。海拔越高温度越低，通常多山地。
+InfoType/Faction,Text,,Faction,势力
+InfoType/Faction__tooltip,Text,,Faction of creature,生物的势力
+InfoType/Health,Text,,Health,健康
+InfoType/Health__tooltip,Text,,"Health of plant, lack of water and extreme temperatures can cause plants to die.",植物的健康值，缺水或极端温度会导致其死亡。
+InfoType/Location,Text,,Location,位置
+InfoType/Location__tooltip,Text,,Longitude and Latitude of region.,地区的经纬度
+InfoType/MaterialsRequired,Text,,Materials Required,所需原料
+InfoType/MaterialsRequired__tooltip,Text,,Materials required for construction. Items Delivered (Items on the way) / Items Required,建造所需的原料。已交付物品（递送中的物品）/需要的物品
+InfoType/Maturity,Text,,Maturity,成熟
+InfoType/Maturity__tooltip,Text,,"Maturity of plant, harvesting fully grown plants nets more resources.",植物成熟，收获完全成熟的植物可以获得更多的资源。
+InfoType/Plants,Text,,Plants,植物
+InfoType/Plants__tooltip,Text,,Plants__tooltip,Plants__tooltip
+InfoType/Precipitation,Text,,Precipitation,降水
+InfoType/Precipitation__tooltip,Text,,Average rainfall in region.,区域平均降雨量。
+InfoType/Stockpile,Text,,Stockpile,库存
+InfoType/Stockpile__tooltip,Text,,Current items stored in stockpile / Total space in stockpile,库存中的当前物品/库存中的总空间
+InfoType/Temperature,Text,,Temperature,温度
+InfoType/Temperature__tooltip,Text,,Average temperature in region.,区域内平均温度
+InfoType/Water,Text,,Water,水
+InfoType/WaterFlow,Text,,WaterFlow,水流
+InfoType/WaterFlow__tooltip,Text,,WaterFlow__tooltip,水流工具
+InfoType/Water__tooltip,Text,,Water stored,蓄水
+Ironman,Text,,Ironman,硬核模式
+Item Type,Text,,Item Type,物品种类
+Item cannot be made becaue no raw materials have been found. Harvest suitable raw material first.,Text,,"Item cannot be made becaue no raw materials have been found.
+Harvest suitable raw material first.",由于没有原材料，无法制作该物品，请先获得相应原材料。
+ItemInfo/Ale,Text,,But,麦芽酒
+ItemInfo/Aluminium Ingot,Text,,Aluminium Ingot,铝锭
+ItemInfo/Amethyst,Text,,Amethyst,紫晶
+ItemInfo/Ammo,Text,,Ammo,弹药
+ItemInfo/Ammunition,Text,,Ammunition,弹药
+ItemInfo/Animal Corpse,Text,,Animal Corpse,动物产品
+ItemInfo/Apple,Text,,An Apple,苹果
+ItemInfo/AppleWood,Text,,AppleWood,苹果木
+ItemInfo/Arbalest,Text,,Arbalest,劲弩
+ItemInfo/Armguards,Text,,Armguards,护臂
+ItemInfo/Armour,Text,,Armour,盔甲
+ItemInfo/Axe,Text,,Axis,轴
+ItemInfo/Bag,Text,,Bag,袋子
+ItemInfo/Ballista Bolt,Text,,Ballista Bolt,弩炮螺栓
+ItemInfo/Banana,Text,,Banana,香蕉
+ItemInfo/Bandage,Text,,Bandage,绷带
+ItemInfo/Banyan,Text,,Banyan,榕树
+ItemInfo/Barrel,Text,,Barrel,桶
+ItemInfo/Basalt,Text,,Basalt,玄武岩
+ItemInfo/Battle Axe,Text,,Battleaxe,战斧
+ItemInfo/Bauxite,Text,,Bauxite,铝土矿
+ItemInfo/BearFur,Text,,Bear Fur,熊皮
+ItemInfo/BearMeat,Text,,Bear Meat,熊肉
+ItemInfo/Birch,Text,,Birch,桦木
+ItemInfo/BirdMeat,Text,,Bird Meat,鸟肉
+ItemInfo/Block,Text,,Block,方块
+ItemInfo/Blood,Text,,Blood,血
+ItemInfo/Blueberry,Text,,Blueberry,蓝莓
+ItemInfo/Bone,Text,,Bone,骨头
+ItemInfo/Book,Text,,Book,书
+ItemInfo/Boots,Text,,Boots,靴子
+ItemInfo/BreadFruit,Text,,PainFruit,面包果
+ItemInfo/Bronze Ingot,Text,,Bronze Ingot,青铜锭
+ItemInfo/Buckler,Text,,Buckler,圆盾
+ItemInfo/BunnyFur,Text,,Bunny Fur,兔皮
+ItemInfo/BunnyMeat,Text,,Bunny Meat,兔肉
+ItemInfo/Burn Items,Text,,Burn Items,燃烧物品
+ItemInfo/Butcher Animal,Text,,Butcher Animal,屠夫动物
+ItemInfo/CactusFruit,Text,,CactusFruit,仙人掌果实
+ItemInfo/CactusTree,Text,,CactusTree,仙人掌
+ItemInfo/Cap,Text,,Cap,帽子
+ItemInfo/Cassiterite,Text,,Cassiterite,錫石矿
+ItemInfo/Catapult Rock,Text,,Catapult Rock,石弹
+ItemInfo/CaveMushroom,Text,,Cave Mushroom,洞穴蘑菇
+ItemInfo/Chalcopyrite,Text,,Chalcopyrite,黄铜矿
+ItemInfo/Cider,Text,,Cider,苹果酒
+ItemInfo/Clay,Text,,Clay,黏土
+ItemInfo/Claymore,Text,,Claymore,大剑
+ItemInfo/Cloak,Text,,Cloak,披风
+ItemInfo/Cloth,Text,,Cloth,布
+ItemInfo/Clothing,Text,,Clothing,衣服
+ItemInfo/Club,Text,,Club,棍子
+ItemInfo/Coal,Text,,Coal,煤
+ItemInfo/CompactedDirtWall,Text,,Compacted Dirt Wall,压实土墙
+ItemInfo/Conglomerate,Text,,Conglomerate,砾岩
+ItemInfo/Container,Text,,Container,容器
+ItemInfo/Copper Ingot,Text,,Copper Ingot,铜锭
+ItemInfo/Corpse,Text,,Corpse,尸体
+ItemInfo/Cotton,Text,,Cotton,棉
+ItemInfo/Crossbow,Text,,Crossbow,弩
+ItemInfo/Cuirass,Text,,Cuirass,胸甲
+ItemInfo/Dagger,Text,,Dagger,匕首
+ItemInfo/Diamond,Text,,Diamond,钻石
+ItemInfo/Diorite,Text,,Diorite,闪长岩
+ItemInfo/Distilled Salt,Text,,Distilled Salt,蒸馏盐
+ItemInfo/Dolomite,Text,,Dolomite,白云石
+ItemInfo/Dried Meat,Text,,Dried Meat,肉松
+ItemInfo/Drink,Text,,Drink,喝
+ItemInfo/Emerald,Text,,Emerald,翡翠
+ItemInfo/Emergency Butcher,Text,,Emergency Butcher,紧急屠夫
+ItemInfo/Emergency Rations,Text,,Emergency Rations,应急口粮
+ItemInfo/FlyMeat,Text,,Fly Meat,苍蝇肉
+ItemInfo/Food,Text,,Food,食物
+ItemInfo/ForestMushroom,Text,,Forest Mushroom,森林蘑菇
+ItemInfo/Gabbro,Text,,Gabbro,辉长岩
+ItemInfo/Galena,Text,,Galena,方铅矿
+ItemInfo/Gauntlets,Text,,Gauntlets,护手
+ItemInfo/Gem,Text,,Gem,宝石
+ItemInfo/Gneiss,Text,,Gneiss,片麻岩
+ItemInfo/Gold,Text,,Gold,金
+ItemInfo/Gold Ingot,Text,,Gold Ingot,金锭
+ItemInfo/Granite,Text,,Granite,花岗岩
+ItemInfo/Halberd,Text,,Halberd,戟
+ItemInfo/Halite,Text,,Halite,岩盐
+ItemInfo/Hammer,Text,,Hammer,锤子
+ItemInfo/Hatchet,Text,,Hand,短斧
+ItemInfo/Hauberk,Text,,Breastplate,胸铠
+ItemInfo/Helm,Text,,Hold Real Power,头盔
+ItemInfo/Hemetite,Text,,Hemetite,赤铁矿
+ItemInfo/Herb,Text,,Herb,草药
+ItemInfo/Herbal Bandage,Text,,Herbal Bandage,草药绷带
+ItemInfo/Hide,Text,,Hide,皮毛
+ItemInfo/Hoe,Text,,How,锄
+ItemInfo/HumanSkin,Text,,Human Skin,人皮
+ItemInfo/Ilmenite,Text,,Ilmenite,钛铁矿
+ItemInfo/Insect Meat,Text,,Insect Meat,昆虫肉
+ItemInfo/Iron Ingot,Text,,Iron Ingot,铁锭
+ItemInfo/Javelin,Text,,Javelin,标枪
+ItemInfo/Jerky,Text,,Jerky,肉干
+ItemInfo/Jewelry,Text,,Jewelry,珠宝
+ItemInfo/Juice,Text,,Juice,果汁
+ItemInfo/Kapok,Text,,I Get,木棉
+ItemInfo/Knife,Text,,Knife,刀
+ItemInfo/Lavish Meal,Text,,Lavish Meal,丰盛的大餐
+ItemInfo/Lavish Vegetable Meal,Text,,Lavish Vegetable Meal,丰盛的素餐
+ItemInfo/Lead Ingot,Text,,Lead Ingot,铅锭
+ItemInfo/Leggings,Text,,Leggings,护腿
+ItemInfo/Limestone,Text,,Limestone,石灰石
+ItemInfo/Loam,Text,,Mold,沃土
+ItemInfo/Longbow,Text,,Longbow,长弓
+ItemInfo/Marble,Text,,Marble,大理石
+ItemInfo/Maul,Text,,Mouth,嘴
+ItemInfo/Mechanism,Text,,Mechanism,机械构件
+ItemInfo/Medical,Text,,Medical,药品
+ItemInfo/MetalReinforcedWall,Text,,MetalReinforcedWall,金属加固墙
+ItemInfo/Mittens,Text,,Mittens,手套
+ItemInfo/MushroomTree,Text,,MushroomTree,蘑菇树
+ItemInfo/MysteryMeat,Text,,Mystery Meat,神秘肉
+ItemInfo/Necklace,Text,,Necklace,项链
+ItemInfo/Nitre,Text,,Nitra,钾硝石
+ItemInfo/Oak,Text,,Oak,橡木
+ItemInfo/Obsidian,Text,,Obsidian,黑曜石
+ItemInfo/Opal,Text,,Opal,蛋白石
+ItemInfo/Pants,Text,,Pants,裤子
+ItemInfo/Paper,Text,,Paper,纸张
+ItemInfo/Peat,Text,,Peat,泥炭
+ItemInfo/Pick,Text,,To Choose,战锤
+ItemInfo/Pickled Vegetables,Text,,Pickled Vegetables,泡菜
+ItemInfo/Pike,Text,,Pike,梭鱼
+ItemInfo/Pine,Text,,Pine,松树
+ItemInfo/Plank,Text,,Plank,木板
+ItemInfo/PlantFibre,Text,,PlantFibre,植物纤维
+ItemInfo/Potato,Text,,Potato,马铃薯
+ItemInfo/Prisoner,Text,,Prisoner,囚犯
+ItemInfo/Quartzite,Text,,Quartzite,石英岩
+ItemInfo/RawMaterial,Text,,RawMaterial,原材料
+ItemInfo/RefinedMaterial,Text,,RefinedMaterial,精制材料
+ItemInfo/Rice,Text,,Rice,米饭
+ItemInfo/RiceGrain,Text,,RiceGrain,稻米
+ItemInfo/Ring,Text,,Ring,戒指
+ItemInfo/Roasted Seeds,Text,,Roasted Seeds,烤熟的种子
+ItemInfo/Rope,Text,,Rope,绳
+ItemInfo/Ruby,Text,,Ruby,红宝石
+ItemInfo/Salt,Text,,Salt,盐
+ItemInfo/Sand,Text,,Sand,沙
+ItemInfo/Sandstone,Text,,Sandstone,砂岩
+ItemInfo/Sandwich,Text,,Sandwich,三明治
+ItemInfo/Schist,Text,,Schist,片岩
+ItemInfo/Seed,Text,,Seed,种子
+ItemInfo/Shale,Text,,Shale,页岩
+ItemInfo/SheepMeat,Text,,SheepMeat,羊肉
+ItemInfo/Shirt,Text,,Shirt,衬衫
+ItemInfo/Shoes,Text,,Shoes,鞋
+ItemInfo/Short Bow,Text,,Short Bow,短弓
+ItemInfo/Silt,Text,,Silt,淤泥
+ItemInfo/Silver,Text,,Silver,银
+ItemInfo/Silver Ingot,Text,,Silver Ingot,银锭
+ItemInfo/Simple Meal,Text,,Simple Meal,简单的一餐
+ItemInfo/Slate,Text,,Slate,石板
+ItemInfo/Spear,Text,,Spear,长矛
+ItemInfo/Sphalerite,Text,,Sphalerite,闪锌矿
+ItemInfo/SpiderChitin,Text,,Spider Chitin,蜘蛛壳
+ItemInfo/SpiderMeat,Text,,SpiderMeat,蜘蛛肉
+ItemInfo/Splint,Text,,Splint,夹板
+ItemInfo/Steak,Text,,Steak,牛排
+ItemInfo/Steel Ingot,Text,,Steel Ingot,钢锭
+ItemInfo/Stick,Text,,Stick,木棍
+ItemInfo/Stone Pipe,Text,,Stone Pipe,石管
+ItemInfo/StoneWall,Text,,StoneWall,石墙
+ItemInfo/StrongStoneWall,Text,,StrongStoneWall,加固石墙
+ItemInfo/Sword,Text,,Sword,剑
+ItemInfo/Targe,Text,,Targe,轻盾
+ItemInfo/Tea,Text,,Tea,茶
+ItemInfo/Tin Ingot,Text,,Tin Ingot,锡锭
+ItemInfo/Titanium Ingot,Text,,Titanium Ingot,钛锭
+ItemInfo/Tomato,Text,,Tomato,番茄
+ItemInfo/Trinket,Text,,Ornament,装饰品
+ItemInfo/Vegetable Stew,Text,,Vegetable Stew,炖蔬菜
+ItemInfo/Vodka,Text,,Vodka,伏特加
+ItemInfo/Wall,Text,,Wall,墙
+ItemInfo/Weapon,Text,,Weapon,武器
+ItemInfo/WheatFlour,Text,,WheatFlour,面粉
+ItemInfo/WheatGrain,Text,,WheatGrain,谷物
+ItemInfo/WolfFur,Text,,Wolf Fur,狼皮
+ItemInfo/WolfMeat,Text,,Wolf meat,狼肉
+ItemInfo/Wooden Pipe,Text,,Wooden Pipe,木材
+ItemInfo/WoodenWall,Text,,Wooden Wall,木墙
+ItemInfo/Wool,Text,,Wool,羊毛
+ItemInfo/Zinc Ingot,Text,,Zinc Ingot,锌锭
+ItemQualityDescription/0,Text,,Shoddy,极差
+ItemQualityDescription/1,Text,,Poor,较差
+ItemQualityDescription/10,Text,,,
+ItemQualityDescription/2,Text,,Mediocre,平庸
+ItemQualityDescription/3,Text,,Decent,尚可
+ItemQualityDescription/4,Text,,Quality,优质
+ItemQualityDescription/5,Text,,Well-crafted,精品
+ItemQualityDescription/6,Text,,Exceptional,卓越
+ItemQualityDescription/7,Text,,Exquisite,精致
+ItemQualityDescription/8,Text,,Masterwork,杰作
+ItemQualityDescription/9,Text,,Legendary,传奇
+Items,Text,,Items,物品
+Items in Stockpiles,Text,,Items in Stockpiles,储存区中的物品
+JobType/AnimalBreeder,Text,,Animal Breeder,饲养员
+JobType/AnimalBreeder__tooltip,Text,,Caring and capture tamed animals. Requires an Animal Pen built.,捕捉并照料已驯服的动物。需要建造动物畜栏。
+JobType/Armoursmith,Text,,ArmourSmith,盔甲匠
+JobType/Armoursmith__tooltip,Text,,Craft metal armour. Requires a Blacksmith built and make item job designated in the Make Item panel.,制作金属盔甲。需要建造铁匠台，并在相关面板中指定制造物品。
+JobType/Bowyer,Text,,Bowyer,制弓匠
+JobType/Bowyer__tooltip,Text,,Craft ranged weapons and ammunition. Requires a Bowyer built and make item job designated in the Make Item panel.,制作远程武器及弹药。需要建造制弓台，并在相关面板中指定制造物品。
+JobType/Brewer,Text,,Brewer,酿酒师
+JobType/Brewer__tooltip,Text,,Brew drinks. Requires a Still built and make item job designated in the Make Item panel.,酿造饮料。需要建造酿酒台，并在相关面板中指定制造物品。
+JobType/Carpenter,Text,,Carpenter,木匠
+JobType/Carpenter__tooltip,Text,,Build wooden buildings and craft wooden items. Requires a Carpenter's Workshop built.,建造木质建筑和木制品。需要建造木工台。
+JobType/Cook,Text,,Cook,厨师
+JobType/Cook__tooltip,Text,,Cook food. Requires a Kitchen built and make item job designated in the Make Item panel.,烹饪食物。需要建造厨房，并在相关面板中指定制造物品。
+JobType/Crafter,Text,,Crafter,工匠
+JobType/Crafter__tooltip,Text,,Craft simple items. Requires a Workshop built and make item job designated in the Make Item panel.,制作简单的物品。需要建造制作台，并在相关面板中指定制造物品。
+JobType/Doctor,Text,,Doctor,医生
+JobType/Doctor__tooltip,Text,,Treat wounded colonists. Free bed required. Rescuing unconscious colonists uses the hauling job.,治疗受伤的殖民者。需要空余床位。营救失去意识的殖民者需要拖运。
+JobType/Farmer,Text,,Farmer,农民
+JobType/Farmer__tooltip,Text,,Plant plants and harvest them when mature. Requires a designated farm placed using the Place Farm tool.,种植作物并收获成熟作物。需要建造农田。
+JobType/Hauler,Text,,Hauler,搬运工
+JobType/Hauler__tooltip,Text,,Transport items around. Place Stockpiles strategically to ensure your workshops always have a close supply of raw materials.,运输物品。恰当搬运并储存物品，以确保所有的工坊均有充足的原材料供应。
+JobType/Herbalist,Text,,Herbalist,采集者
+JobType/Herbalist__tooltip,Text,,Harvest wild plants for food. Designate plants to harvest using the Harvest Plants tool. Will wait for plants to mature before harvesting.,采集野生植物作为食物。使用收割植物工具指定需要收割的成熟植物。
+JobType/Hunter,Text,,Hunter,猎人
+JobType/Hunter__tooltip,Text,,Hunt animals for food and hides. Ranged weapon recommended.,狩猎动物以获得食物和皮毛。推荐装备远程武器。
+JobType/Jeweller,Text,,Jeweller,珠宝匠
+JobType/Jeweller__tooltip,Text,,Cutting of gems and making of jewelry. Requires a Jewellers Workshop.,切割宝石并制作珠宝。需要建造珠宝切割台。
+JobType/Mason,Text,,Mason,石匠
+JobType/Mason__tooltip,Text,,"Build stone buildings, walls, and craft stone items at the Mason's Workshop.",在石匠台建造石质建筑、墙和石制物品。
+JobType/Miner,Text,,Miner,矿工
+JobType/Miner__tooltip,Text,,Mine dirt or rock. Requires a designated area using the Dig tool.,挖掘泥土和岩石。需要使用挖掘工具指定挖掘区域。
+JobType/Researcher,Text,,Researcher,研究员
+JobType/Researcher__tooltip,Text,,Research new technologies in the Research Lab.,在研究台研究新技术。
+JobType/SaltWorker,Text,,SaltWorker,制盐工
+JobType/SaltWorker__tooltip,Text,,Making of salt through desalination of sea water or processing of rock salt at the Saltworks.,通过淡化海水或在盐工坊加工岩盐来制盐。
+JobType/Smelter,Text,,Smelter,冶炼工
+JobType/Smelter__tooltip,Text,,Turn ore and fuel into metal ingots. Requires a Furnace built and make item job designated in the Make Item panel.,将金属矿石和燃料转化为金属锭。需要建造熔炉，并在相关面板中指定制造物品。
+JobType/Weaponsmith,Text,,Weaponsmith,武器匠
+JobType/Weaponsmith__tooltip,Text,,Craft weapons. Requires a Blacksmith built and make item job designated in the Make Item panel.,制作武器。需要建造铁匠台，并在相关面板中指定制造物品。
+JobType/Weaver,Text,,Weaver,纺织工
+JobType/Weaver__tooltip,Text,,Craft cloth and clothing. Requires a Loom built and make item job designated in the Make Item panel.,制作布和衣服。需要建造纺织布机，并在相关面板中指定制造物品。
+JobType/WoodCutter,Text,,WoodCutter,樵夫
+JobType/WoodCutter__tooltip,Text,,Cut down trees for wood. Designate trees to cut using the harvest trees tool. Does not work on plants.,砍伐树木获取原木。需要使用砍伐树木工具指定需要砍伐的树木。不适用于植物。
+JobType/Writer,Text,,Writer,作家
+JobType/Writer__tooltip,Text,,Books improve mood or help other workers improve a skill. Books can also be traded. Writing a book requires a free bookshelf and paper.,书籍能够改善心情或帮助其他工人提高技能。书籍可以被交易。写作需要一个闲置的书架和纸张。
+Jobs/Build Building,Text,,,
+Jobs/Build Wall,Text,,,
+Jobs/Chop Tree,Text,,,
+Jobs/Craft,Text,,,
+Jobs/Drink Stream Water,Text,,,
+Jobs/Find Chat,Text,,,
+Jobs/Harvest Crop,Text,,,
+Jobs/Harvest Plant,Text,,,
+Jobs/Haul Construction Material,Text,,,
+Jobs/Haul for {0},Text,,,
+Jobs/Haul to Stockpile,Text,,,
+Jobs/Haul to Wall,Text,,,
+Jobs/Keep Equipment,Text,,,
+Jobs/Mine,Text,,,
+Jobs/Plant Crop,Text,,,
+Jobs/Read Book,Text,,,
+Jobs/Research,Text,,,
+Jobs/Rest on Chair,Text,,,
+Jobs/Rest on Floor,Text,,,
+Jobs/Restocking Building,Text,,,
+Jobs/Sleep on Bed,Text,,,
+Jobs/Sleep on floor,Text,,,
+Jobs/Sulk,Text,,,
+Jobs/Swim,Text,,,
+Jobs/Take Item,Text,,,
+Jobs/Take Tool,Text,,,
+Jobs/Wander,Text,,,
+Key Bindings,Text,,Key Bindings,绑定按键
+Left Hand,Text,,Left Hand,左手
+Legs,Text,,Legs,腿
+Lighting,Text,,Lighting,灯光
+Likes {0},Text,,Likes {0},喜欢{0}
+Load,Text,,Load,加载
+Load Game,Text,,Load Game,加载游戏
+Loading,Text,,Loading,载入中
+Locked,Text,,Locked,锁定
+LotsOf,Text,,,
+Main Menu,Text,,Main Menu,主菜单
+Maintain Stock,Text,,Maintain Stock,维持库存
+Mantain Stock,Text,,Mantain Stock,维持库存
+Manually Assign,Text,,Manually Assign,手动分配
+Many,Text,,,
+Map seed,Text,,Map seed,地图种子
+Massive,Text,,Massive,巨大的
+Material,Text,,Material,原料
+MaterialType/AirWalkable,Text,,Air Walkable,空气
+MaterialType/AirWalkableFast,Text,,AirWalkableFast,空气
+MaterialType/AirWalkableFastCeiling,Text,,AirWalkableFastCeiling,空气
+MaterialType/AirWalkableSlow,Text,,AirWalkableSlow,空气
+MaterialType/AirWalkableSlowCeiling,Text,,,
+MaterialType/Aluminium,Text,,Aluminum,铝
+MaterialType/Amethyst,Text,,Amethyst,紫晶
+MaterialType/Animal Product,Text,,Animal Product,动物产品
+MaterialType/Apple,Text,,Apple,苹果
+MaterialType/AppleWood,Text,,Apple Wood,苹果木
+MaterialType/Banana,Text,,Banana,香蕉
+MaterialType/Banyan,Text,,Banyan,榕树
+MaterialType/Basalt,Text,,Basalt,玄武岩
+MaterialType/Bauxite,Text,,Bauxite,铝土矿
+MaterialType/BearFur,Text,,Bear Fur,熊皮
+MaterialType/BearMeat,Text,,Bear Meat,熊肉
+MaterialType/Birch,Text,,Birch,桦木
+MaterialType/BirdMeat,Text,,Bird Meat,鸟肉
+MaterialType/Blueberry,Text,,Blueberry,蓝莓
+MaterialType/Bone,Text,,Bone,骨头
+MaterialType/BreadFruit,Text,,Breadfruit,面包果
+MaterialType/Bronze,Text,,Bronze,青铜
+MaterialType/Building,Text,,Building,建筑物
+MaterialType/BunnyFur,Text,,Bunny Fur,兔皮
+MaterialType/BunnyMeat,Text,,Bunny Meat,兔肉
+MaterialType/CactusFruit,Text,,Cactus Fruit,仙人掌果实
+MaterialType/CactusTree,Text,,Cactus Wood,仙人掌木
+MaterialType/Cassiterite,Text,,Cassiterite,錫石矿
+MaterialType/CaveMushroom,Text,,CaveMushroom,洞穴蘑菇
+MaterialType/Chalcopyrite,Text,,Chalcopyrite,黄铜矿
+MaterialType/Clay,Text,,Clay,黏土
+MaterialType/ClosedDoorWalkable,Text,,ClosedDoorWalkable,关闭的门
+MaterialType/Coal,Text,,Coal,煤
+MaterialType/CompactedDirtWall,Text,,Compacted Dirt Wall,压实土墙
+MaterialType/Conglomerate,Text,,Conglomerate,砾岩
+MaterialType/Copper,Text,,Copper,铜
+MaterialType/Cotton,Text,,Cotton,棉
+MaterialType/Diamond,Text,,Diamond,钻石
+MaterialType/Diorite,Text,,Diorite,闪长岩
+MaterialType/Dolomite,Text,,Dolomite,白云石
+MaterialType/Emerald,Text,,Emerald,翡翠
+MaterialType/Fiber,Text,,Fiber,纤维
+MaterialType/FlyMeat,Text,,Fly Meat,苍蝇肉
+MaterialType/Food,Text,,Food,食物
+MaterialType/ForestMushroom,Text,,ForestMushroom,森林蘑菇
+MaterialType/Gabbro,Text,,Gabbro,辉长岩
+MaterialType/Galena,Text,,Galena,方铅矿
+MaterialType/Gems,Text,,Gems,宝石
+MaterialType/Glass,Text,,Glass,玻璃
+MaterialType/Gneiss,Text,,Gneiss,片麻岩
+MaterialType/Gold,Text,,Gold,金
+MaterialType/Granite,Text,,Granite,花岗岩
+MaterialType/Grass,Text,,,
+MaterialType/Halite,Text,,Halite,岩盐
+MaterialType/Hemetite,Text,,Hemetite,赤铁矿
+MaterialType/Herb,Text,,Herb,草药
+MaterialType/HumanSkin,Text,,Human Skin,人皮
+MaterialType/Ilmenite,Text,,Ilmenite,钛铁矿
+MaterialType/Iron,Text,,Iron,铁
+MaterialType/Kapok,Text,,Kapok,木棉
+MaterialType/LadderNorth,Text,,LadderNorth,梯子
+MaterialType/Lead,Text,,Lead,铅
+MaterialType/Limestone,Text,,Limestone,石灰石
+MaterialType/Loam,Text,,Loam,沃土
+MaterialType/LushGrass,Text,,LushGrass,高草
+MaterialType/Marble,Text,,Marble,大理石
+MaterialType/Metal,Text,,Metal,金属
+MaterialType/MetalReinforcedWall,Text,,Metal Reinforced Wall,金属加固墙
+MaterialType/MushroomTree,Text,,Mushroom Tree,蘑菇树
+MaterialType/MysteryMeat,Text,,Mystery Meat,神秘肉
+MaterialType/Natural Rocks,Text,,Natural Rocks,天然岩石
+MaterialType/Nitre,Text,,Nitre,钾硝石
+MaterialType/None,Text,,None,没有
+MaterialType/Oak,Text,,Oak,橡木
+MaterialType/Obsidian,Text,,Obsidian,黑曜石
+MaterialType/Opal,Text,,Opal,蛋白石
+MaterialType/Ore,Text,,Ore,矿石
+MaterialType/Peat,Text,,Peat,泥炭
+MaterialType/Permafrost,Text,,Permafrost,永久冻土
+MaterialType/Pine,Text,,Pine,松树
+MaterialType/PlantFibre,Text,,Plant Fibre,植物纤维
+MaterialType/Potato,Text,,Potato,马铃薯
+MaterialType/Quartzite,Text,,Quartzite,石英岩
+MaterialType/Rice,Text,,Rice,米饭
+MaterialType/RiceGrain,Text,,Rice Grain,稻米
+MaterialType/Ruby,Text,,Ruby,红宝石
+MaterialType/Salt,Text,,Salt,盐
+MaterialType/Sand,Text,,Sand,沙
+MaterialType/Sandstone,Text,,Sandstone,砂岩
+MaterialType/Schist,Text,,Schist,片岩
+MaterialType/Shale,Text,,Shale,页岩
+MaterialType/SheepMeat,Text,,Sheepmeat,羊肉
+MaterialType/Show All,Text,,Show All,显示所有
+MaterialType/Silk,Text,,Silk,丝
+MaterialType/Silt,Text,,Silt,淤泥
+MaterialType/Silver,Text,,Silver,银
+MaterialType/Slate,Text,,Slate,石板
+MaterialType/Soil,Text,,Soil,土壤
+MaterialType/Sphalerite,Text,,Sphalerite,闪锌矿
+MaterialType/SpiderChitin,Text,,Spider Chitin,蜘蛛壳
+MaterialType/SpiderMeat,Text,,Spider Meat,蜘蛛肉
+MaterialType/Steel,Text,,Steel,钢
+MaterialType/StoneWall,Text,,StoneWall,石墙
+MaterialType/StrongStoneWall,Text,,Strong Stone Wall,加固石墙
+MaterialType/Tin,Text,,Believe,锡
+MaterialType/Titanium,Text,,Titanium,钛
+MaterialType/Tomato,Text,,Tomato,番茄
+MaterialType/Tree,Text,,Tree,树木
+MaterialType/Unknown,Text,,Unknown,未知
+MaterialType/Wall,Text,,Wall,墙
+MaterialType/WaterSalty8,Text,,WaterSalty8,咸水
+MaterialType/WheatFlour,Text,,WheatFlour,面粉
+MaterialType/WheatGrain,Text,,Wheat Grains,谷物
+MaterialType/WolfFur,Text,,Wolf Fur,狼皮
+MaterialType/WolfMeat,Text,,Wolf Meat,狼肉
+MaterialType/Wood,Text,,Wood,木材
+MaterialType/WoodenWall,Text,,Wooden Wall,木墙
+MaterialType/Wool,Text,,Wool,羊毛
+MaterialType/Zinc,Text,,Zinc,锌
+Materials,Text,,Materials,原料
+Materials Needed,Text,,Materials Needed,所需原料
+Medical Settings,Text,,Medical Settings,医疗设置
+Military,Text,,Military,军事
+Min quality,Text,,Min Quality,最低质量
+Mod Name,Text,,Mod Name,Mod名称
+Mood,Text,,,
+Name,Text,,Name,名称
+Needed,Text,,Needed,需要
+New Game,Text,,New Game,新游戏
+New Preset,Text,,New Preset,新预设
+New Squad,Text,,New Squad,新小队
+New Uniform,Text,,New Uniform,新制服
+New World,Text,,New World,新世界
+Next,Text,,Next,下一步
+No Items Assigned,Text,,No Items Assigned,没有分配物品
+No Items Found,Text,,No Items Found,没有找到物品
+No Items Selected,Text,,No Items Selected,没有选定物品
+No Known Factions,Text,,No Known Factions,无已知势力
+No Owner,Text,,No Owner,无所有者
+No Skills,Text,,,
+No Squads found. Workers need to be put into squads to be controlled.,Text,,"No Squads found.
+
+Workers need to be put into squads to be controlled.",没有找到小队。需要将殖民者加入编队以进行控制。
+No Traits,Text,,No Traits,无特点
+No Workshops. Build a workshop to be able to order items.,Text,,No Workshops. Build a workshop to be able to order items.,无工坊。建立一个能够订购物品的工坊。
+No colonists,Text,,No colonists,无殖民者
+No materials found.,Text,,No materials found.,没有找到原料
+No save games,Text,,No save games,无存档
+No seeds found. Harvest wild crops to find seeds to plant.,Text,,No seeds found. Harvest wild crops to find seeds to plant.,无种子。收获野生作物以寻找种子来种植。
+No starting setups saved.,Text,,No starting setups saved.,未保存启动设置
+None,Text,,None,无
+Normal,Text,,Normal,普通
+Normal Bed,Text,,Normal Bed,普通的床
+Nothing found,Text,,Nothing was found,什么都没找到
+Notification,Text,,Notification,通知
+One Time,Text,,One Time,一次性
+One Time Order,Text,,One Time Order,一次性订单
+"Oops, Embark has crashed. The game will now try to save but it is recommended to load your previous save instead. Please use the upload save feature in the load game menu to upload the save game to help us find out what went wrong.",Text,,"Oops, Embark has crashed. The game will now try to save but it is recommended to load your previous save instead.
+Please use the upload save feature in the load game menu to upload the save game to help us find out what went wrong.",抱歉，游戏发生了未知错误。游戏将会尝试保存，但建议您加载之前的存档。
+Opt-out of error reporting,Text,,Opt-out of error reporting,游戏错误报告
+Options,Text,,Options,选项
+OptionsInfo/Ambient Occlusion,Text,,Ambient Occlusion,环境光遮蔽
+OptionsInfo/Ambient Occlusion__tooltip,Text,,Ambient occlusion amount,环境光遮蔽
+OptionsInfo/Anti Aliasing (FXAA),Text,,Anti Aliasing (Fxaa),抗锯齿
+OptionsInfo/Anti Aliasing (FXAA)__tooltip,Text,,Anti Aliasing,抗锯齿
+OptionsInfo/Autosave,Text,,Autosave,自动保存
+OptionsInfo/Autosave__tooltip,Text,,Autosave frequency,自动保存间隔
+OptionsInfo/Draw Distance,Text,,Draw Distance,镜头范围
+OptionsInfo/Draw Distance__tooltip,Text,,Camera draw distance,镜头显示范围
+OptionsInfo/Erosion,Text,,Erosion,侵蚀
+OptionsInfo/Erosion__tooltip,Text,,"Erosion during map generation, turn off if you are crashing during map generation.",地图生成时侵蚀，如果在地图生成期间崩溃则关闭侵蚀。
+OptionsInfo/Fullscreen,Text,,Fullscreen,全屏
+OptionsInfo/Fullscreen__tooltip,Text,,Fullscreen,全屏
+OptionsInfo/Graphics Quality,Text,,Graphics Quality,图像质量
+OptionsInfo/Graphics Quality__tooltip,Text,,Graphic quality presets,图像质量预设
+OptionsInfo/Grass,Text,,Grass,草地
+OptionsInfo/Grass__tooltip,Text,,Grass shader,草地着色
+OptionsInfo/Language,Text,,Language,语言
+OptionsInfo/Language__tooltip,Text,,Language,语言
+OptionsInfo/Look Sensitivity,Text,,Look Sensitivity,镜头灵敏度
+OptionsInfo/Look Sensitivity__tooltip,Text,,Speed at which camera rotates.,镜头旋转的速度
+OptionsInfo/Map Scroll Multiplier,Text,,Map Scroll Multiplier,地图滚动倍数
+OptionsInfo/Map Scroll Multiplier__tooltip,Text,,Higher value means that you scroll faster when zoomed out more.,该值越高表明在缩小时滚动速度越快
+OptionsInfo/Map Scroll Speed,Text,,Map Scroll Speed,地图滚动速度
+OptionsInfo/Map Scroll Speed__tooltip,Text,,Speed at which camera moves around map.,镜头在地图上移动的速度
+OptionsInfo/Master Volume,Text,,Master Volume,游戏音量
+OptionsInfo/Master Volume__tooltip,Text,,Master volume,游戏音量
+OptionsInfo/Metric,Text,,Metric,公制单位
+OptionsInfo/Metric__tooltip,Text,,Use metric or imperial units for measurements,在游戏中使用公制或英制单位
+OptionsInfo/Music Volume,Text,,Music Volume,音乐音量
+OptionsInfo/Music Volume__tooltip,Text,,Music volume,音乐音量
+OptionsInfo/Reflections,Text,,Reflections,水面倒影
+OptionsInfo/Reflections__tooltip,Text,,Water reflections,水面倒影
+OptionsInfo/Resolution,Text,,Resolution,分辨率
+OptionsInfo/Resolution__tooltip,Text,,Screen resolution,分辨率
+OptionsInfo/Shadow Quality,Text,,Shadow Quality,阴影质量
+OptionsInfo/Shadow Quality__tooltip,Text,,Shadow quality,阴影质量
+OptionsInfo/Sound Volume,Text,,Sound Volume,音效音量
+OptionsInfo/Sound Volume__tooltip,Text,,Volume of sound effects,音效音量
+OptionsInfo/Target Framerate,Text,,Target Framerate,图像帧率
+OptionsInfo/Target Framerate__tooltip,Text,,Target framerate,图像帧率
+OptionsInfo/Texture Quality,Text,,Texture Quality,纹理质量
+OptionsInfo/Texture Quality__tooltip,Text,,Texture quality,纹理质量
+OptionsInfo/Tutorial,Text,,Tutorial,教程
+OptionsInfo/Tutorial__tooltip,Text,,Enable or disable tutorial,启用或禁用教程
+OptionsInfo/UI Scale,Text,,U Stairs,U台阶
+OptionsInfo/UI Scale__tooltip,Text,,UI Scale,界面比例
+OptionsInfo/Vsync,Text,,Vsync,垂直同步
+OptionsInfo/Vsync__tooltip,Text,,Vsync,垂直同步
+OptionsInfo/World Generation Quality,Text,,World Generation Quality,世界生成质量
+OptionsInfo/World Generation Quality__tooltip,Text,,Reduce if you are crashing during world generation,如果在世界生成期间崩溃则降低质量。
+OptionsInfo/Zoom Sensitivity,Text,,Zoom Sensitivity,缩放灵敏度
+OptionsInfo/Zoom Sensitivity__tooltip,Text,,Camera zoom sensitivity,镜头缩放灵敏度
+OptionsKeyInfo/Barrel,Text,,Barrel,桶
+OptionsKeyInfo/Bed,Text,,Bed,床
+OptionsKeyInfo/Blacksmith,Text,,Blacksmith,铁匠
+OptionsKeyInfo/Bookmark 0,Text,,Bookmark 0,标签0
+OptionsKeyInfo/Bookmark 1,Text,,Bookmark 1,标签1
+OptionsKeyInfo/Bookmark 2,Text,,Bookmark 2,标签2
+OptionsKeyInfo/Bookmark 3,Text,,Bookmark 3,标签3
+OptionsKeyInfo/Bookmark 4,Text,,Bookmark 4,标签4
+OptionsKeyInfo/Bookmark 5,Text,,Bookmark 5,标签5
+OptionsKeyInfo/Bookmark 6,Text,,Bookmark 6,标签6
+OptionsKeyInfo/Bookmark 7,Text,,Bookmark 7,标签7
+OptionsKeyInfo/Bookmark 8,Text,,Bookmark 8,标签8
+OptionsKeyInfo/Bookmark 9,Text,,Bookmark 9,标签9
+OptionsKeyInfo/Bookshelf,Text,,Bookshelf,书架
+OptionsKeyInfo/Bowyer,Text,,Bowyer,制弓匠
+OptionsKeyInfo/Build Farm,Text,,Farm,建造农田
+OptionsKeyInfo/Build Grave,Text,,Build Grave,建造坟墓
+OptionsKeyInfo/Build Jeweller's Workshop,Text,,Build Jeweller's Workshop,建造珠宝切割台
+OptionsKeyInfo/Build Menu,Text,,Build Menu,建造菜单
+OptionsKeyInfo/Build Saltworks,Text,,Build Saltworks,建造盐工坊
+OptionsKeyInfo/Build Wall,Text,,Walls,建造墙
+OptionsKeyInfo/Category Advanced Workshops,Text,,Advanced Workshops,高级工坊
+OptionsKeyInfo/Category Basic Workshops,Text,,Basic Workshops,初级工坊
+OptionsKeyInfo/Category Decor,Text,,Decor,装饰
+OptionsKeyInfo/Category Furniture,Text,,Furniture,家具
+OptionsKeyInfo/Category Misc,Text,,Misc,杂项
+OptionsKeyInfo/Chair,Text,,Chair,椅子
+OptionsKeyInfo/Chest,Text,,Chest,箱子
+OptionsKeyInfo/Citizens,Text,,Citizens,居民
+OptionsKeyInfo/Close Current Panel,Text,,Close Current Panel,关闭当前面板
+OptionsKeyInfo/Create Stockpile,Text,,Stockpile,储存区
+OptionsKeyInfo/Curtain,Text,,Curtain,窗帘
+OptionsKeyInfo/Decrease Build Wall Height,Text,,Decrease Build Wall Height,降低建筑墙高度
+OptionsKeyInfo/Decrease Job Priority,Text,,Decrease Job Priority,降低工作优先级
+OptionsKeyInfo/Dig,Text,,Dig,挖掘
+OptionsKeyInfo/Door,Text,,By,门
+OptionsKeyInfo/Down One Z Level,Text,,Down One Z Level,降低一个方块的高度
+OptionsKeyInfo/Factions,Text,,Factions,势力
+OptionsKeyInfo/Fast Speed,Text,,Fast Speed,2倍速度
+OptionsKeyInfo/Fastest Speed,Text,,Fastest Speed,3倍速度
+OptionsKeyInfo/Fence,Text,,Fence,围栏
+OptionsKeyInfo/Furnace,Text,,Furnace,熔炉
+OptionsKeyInfo/Gate,Text,,Gate,门
+OptionsKeyInfo/Give Orders,Text,,Give Orders,下命令
+OptionsKeyInfo/Harvest Plant,Text,,Harvest Plants,收获植物
+OptionsKeyInfo/Harvest Tree,Text,,Harvest Trees,砍伐树木
+OptionsKeyInfo/Hold to replace,Text,,Hold to replace,等待替换
+OptionsKeyInfo/Hunt,Text,,Hunt,狩猎
+OptionsKeyInfo/Increase Build Wall Height,Text,,Increase Build Wall Height,增加建筑墙高度
+OptionsKeyInfo/Increase Job Priority,Text,,Increase Job Priority,提高工作优先级
+OptionsKeyInfo/Item Orders,Text,,Order Item,物品订单
+OptionsKeyInfo/Jobs,Text,,Jobs,工作
+OptionsKeyInfo/Kitchen,Text,,Kitchen,厨房
+OptionsKeyInfo/Ladder,Text,,Ladder,梯子
+OptionsKeyInfo/Loom,Text,,Loom,织布机
+OptionsKeyInfo/Map,Text,,Map,地图
+OptionsKeyInfo/MasonWorkshop,Text,,Mason Workshop,石匠台
+OptionsKeyInfo/Mechanism,Text,,Mechanism,机械构件
+OptionsKeyInfo/Menu,Text,,Menu,菜单
+OptionsKeyInfo/Move Panel,Text,,Move Panel,移动面板
+OptionsKeyInfo/Movement Orders,Text,,Movement Orders,移动订单
+OptionsKeyInfo/Next Character,Text,,Next Character,下一个角色
+OptionsKeyInfo/Normal Speed,Text,,Normal Speed,正常速度
+OptionsKeyInfo/Overlay Military,Text,,Overlay Military,军事浮窗
+OptionsKeyInfo/Overlay Normal,Text,,Overlay Normal,正常浮窗
+OptionsKeyInfo/Overlay Prospecting,Text,,Overlay Prospecting,勘探浮窗
+OptionsKeyInfo/Overlay Rooms,Text,,Overlay Rooms,房间浮窗
+OptionsKeyInfo/Overlay Water,Text,,Overlay Water,水资源浮窗
+OptionsKeyInfo/Painting,Text,,Painting,绘画
+OptionsKeyInfo/Pause,Text,,Pause,暂停
+OptionsKeyInfo/Previous Character,Text,,Previous Character,上一个角色
+OptionsKeyInfo/Quick Load,Text,,Quick Load,快速加载
+OptionsKeyInfo/Quick Save,Text,,Quick Save,快速保存
+OptionsKeyInfo/Relationships Panel,Text,,Relationships,关系
+OptionsKeyInfo/Remove Building,Text,,Remove Building,移除建筑物
+OptionsKeyInfo/Remove Orders,Text,,Remove Orders,删除订单
+OptionsKeyInfo/Research Panel,Text,,Research,研究
+OptionsKeyInfo/Reset Camera,Text,,Reset Camera,重置镜头
+OptionsKeyInfo/Rotate Building Left,Text,,Rotate Building Left,向左旋转建筑物
+OptionsKeyInfo/Rotate Building Right,Text,,Rotate Building Right,向右旋转建筑物
+OptionsKeyInfo/Rotate Camera,Text,,Rotate Camera,旋转镜头
+OptionsKeyInfo/Screenshot,Text,,Screenshot,截图
+OptionsKeyInfo/Scroll Down,Text,,Scroll Down,向下滚动
+OptionsKeyInfo/Scroll Left,Text,,Scroll Left,向左滚动
+OptionsKeyInfo/Scroll Right,Text,,Scroll Right,向右滚动
+OptionsKeyInfo/Scroll Up,Text,,Scroll Up,向上滚动
+OptionsKeyInfo/Sculpture,Text,,Sculpture,雕像
+OptionsKeyInfo/Select Object,Text,,Select Object,选择对象
+OptionsKeyInfo/Stairs,Text,,Stairs,台阶
+OptionsKeyInfo/Still,Text,,Still,酿酒台
+OptionsKeyInfo/Stocks,Text,,Stocks,存货
+OptionsKeyInfo/Stop Selection,Text,,Stop Selection,停止选择
+OptionsKeyInfo/Table,Text,,Table,桌子
+OptionsKeyInfo/Tame,Text,,Tame,驯服
+OptionsKeyInfo/Toggle UI,Text,,Toggle Ui,UI开关
+OptionsKeyInfo/Torch,Text,,Torch,火把
+OptionsKeyInfo/Up One Z Level,Text,,Up One Z Level,抬高一个方块的高度
+OptionsKeyInfo/Vase,Text,,Vase,花瓶
+OptionsKeyInfo/Water Pump,Text,,Water Pump,水泵
+OptionsKeyInfo/Water Works,Text,,Water Works,给水装置
+OptionsKeyInfo/Windmill,Text,,Windmill,风车
+OptionsKeyInfo/Window,Text,,Window,窗户
+OptionsKeyInfo/Woodshop,Text,,Woodshop,木材店
+OptionsKeyInfo/Workshop,Text,,Workshop,工坊
+OptionsKeyInfo/Zoom In Map,Text,,Zoom In Map,放大地图
+OptionsKeyInfo/Zoom Out Map,Text,,Zoom Out Map,缩小地图
+OptionsKeyInfo/Zoom To Next Alert,Text,,Zoom To Next Alert,移动至下一个警报
+OptionsKeyInfo/Zoom To Position,Text,,Zoom To Position,移动至当前位置
+OptionsKeyInfo/Zoom to Bookmark 0,Text,,Zoom to Bookmark 0,移动至标签0
+OptionsKeyInfo/Zoom to Bookmark 1,Text,,Zoom to Bookmark 1,移动至标签1
+OptionsKeyInfo/Zoom to Bookmark 2,Text,,Zoom to Bookmark 2,移动至标签2
+OptionsKeyInfo/Zoom to Bookmark 3,Text,,Zoom to Bookmark 3,移动至标签3
+OptionsKeyInfo/Zoom to Bookmark 4,Text,,Zoom To Bookmark 4,移动至标签4
+OptionsKeyInfo/Zoom to Bookmark 5,Text,,Zoom to Bookmark 5,移动至标签5
+OptionsKeyInfo/Zoom to Bookmark 6,Text,,Zoom to Bookmark 6,移动至标签6
+OptionsKeyInfo/Zoom to Bookmark 7,Text,,Zoom to Bookmark 7,移动至标签7
+OptionsKeyInfo/Zoom to Bookmark 8,Text,,Zoom to Bookmark 8,移动至标签8
+OptionsKeyInfo/Zoom to Bookmark 9,Text,,Zoom to Bookmark 9,移动至标签9
+Order Item,Text,,Order Item,订做物品
+Order new Item(s),Text,,Order new Item(s),订做新物品
+Orders,Text,,Orders,订单
+Overlays,Text,,Overlays,浮窗
+Owner(s),Text,,Owner(s),拥有者
+Passive,Text,,Passive,消极
+PerkInfo/Abundant Game,Text,,Abundant Game,丰富游戏
+PerkInfo/Abundant Game__tooltip,Text,,The starting area has an abundance of easily hunted animals.,起始区域内有大量可以被轻松猎杀的动物。
+PerkInfo/Clothing,Text,,Clothing,服装
+PerkInfo/Clothing__tooltip,Text,,You start with some basic clothes.,开始游戏时有一些基本衣物。
+PerkInfo/Cotton,Text,,Cotton,棉
+PerkInfo/Diplomacy,Text,,Diplomacy,外交
+PerkInfo/Diplomacy__tooltip,Text,,You have more time to prepare for the first attack.,有更充裕的时间来应对第一次袭击。
+PerkInfo/Drinks,Text,,Drinks,开始游戏时有一大堆酒。
+PerkInfo/Drinks__tooltip,Text,,You start with some drinks.,开始游戏时有一些饮品。
+PerkInfo/Leadership,Text,,Leadership,领导能力
+PerkInfo/Leadership__tooltip,Text,,Everyone starts friendlier with each other.,每个人都彼此友好相处。
+PerkInfo/Lumber Stash,Text,,Lumber Stash,木材储备
+PerkInfo/Lumber Stash__tooltip,Text,,You start with a stash of wood.,开始游戏时有一堆木材。
+PerkInfo/Optimism,Text,,Optimism,乐观
+PerkInfo/Optimism__tooltip,Text,,Everyone starts happier.,每个人开始时都很快乐。
+PerkInfo/Potato Seeds,Text,,Potato Seeds,马铃薯种子
+PerkInfo/Potato Seeds__tooltip,Text,,You start with some potato seeds,开始游戏时有一些马铃薯种子。
+PerkInfo/Rations,Text,,Rations,口粮
+PerkInfo/Rations__tooltip,Text,,You start with some food and seeds for crops.,开始游戏时有一些食物和作物种子。
+PerkInfo/Spring,Text,,Spring,春季
+PerkInfo/Spring__tooltip,Text,,You start in spring.,游戏从春季开始。
+PerkInfo/Tools,Text,,Tools,工具
+PerkInfo/Tools__tooltip,Text,,You start with an axe and a pick.,开始游戏时有斧头和稿。
+PerkInfo/Weapons,Text,,Weapons,武器
+PerkInfo/Weapons__tooltip,Text,,You start with some basic weapons.,开始游戏时有一些基本武器。
+Place Building,Text,,Place Building,放置建筑物
+Plant,Text,,Plant,植物
+Play-Bold SDF large_white,Material,,Play-Bold SDF large_white,NotoSansSC-Chinese bold_white
+Play-Bold SDF regular_black,Material,,Play-Regular SDF regular_black,NotoSansSC-Chinese bold_black
+Play-Bold SDF regular_white,Material,,Play-Bold SDF regular_white,NotoSansSC-Chinese bold_white
+Play-Regular SDF regular_black,Material,,Play-Regular SDF regular_black,NotoSansSC-Chinese regular_black
+Play-Regular SDF regular_white,Material,,Play-Regular SDF regular_white,NotoSansSC-Chinese regular_white
+Play-Regular SDF small_white,Material,,Play-Regular SDF small_white,NotoSansSC-Chinese small_white
+Please describe the bug and clearly describe the steps required to replicate the issue.,Text,,Please describe the bug and clearly describe the steps required to replicate the issue.,请描述您遇到的错误和遇到错误前的操作。
+Please fill in the email field,Text,,Please fill in the email field,请填写电子邮件地址
+Points,Text,,Points,点数
+Points Used:,Text,,Points Used:,使用的点数：
+Population,Text,,Population,人口
+Popup,Text,,Popup,弹窗
+Preset,Text,,Preset,预设
+Preview Image (screenshot.png jpg gif in mod folder),Text,,Preview Image (screenshot.png / jpg / gif in mod folder),预览图片（mod文件夹中的screenshot.png/jpg/gif）
+Priority,Text,,Priority,优先级
+Progress,Text,,Progress,进展
+Prospecting,Text,,Prospecting,勘探
+Quality,Text,,Quality,质量
+Quantity,Text,,Quantity,数量
+Quit,Text,,Quit,退出
+Rain,Text,,Rain,雨水
+Random,Text,,Random,随机
+Randomise,Text,,Randomise,随机
+Refresh,Text,,Refresh,刷新
+Relationships,Text,,Relationships,关系
+Remove,Text,,Remove,移除
+Replace,Text,,Replace,替换
+Replace terrain material or right click to remove build wall orders.,Text,,Replace terrain material or right click to remove build wall orders.,替换地形材质或单击右键来移除建造墙的命令。
+Research,Text,,Research,研究
+ResearchInfo/Advanced Bows,Text,,Advanced Arcs,高级弓
+ResearchInfo/Advanced Clothing,Text,,Advanced Clothing,高级服装
+ResearchInfo/Advanced Crossbows,Text,,Advanced Crossbows,高级弩
+ResearchInfo/Advanced cooking,Text,,Advanced cooking,高级烹饪
+ResearchInfo/Ale,Text,,But,麦芽酒
+ResearchInfo/Aluminium,Text,,Aluminum,铝
+ResearchInfo/Animal Husbandry,Text,,Animal Husbandry,畜牧业
+ResearchInfo/Bags,Text,,Bags,袋子
+ResearchInfo/Ballistas,Text,,Ballistas,弩炮
+ResearchInfo/Barrels,Text,,Barrels,桶
+ResearchInfo/Basic Armour,Text,,Basic Armor,基本盔甲
+ResearchInfo/Basic Clothing,Text,,Basic Clothing,基本服装
+ResearchInfo/Basic Decor,Text,,Basic Decor,基本装饰
+ResearchInfo/Basic Furniture,Text,,Basic Furniture,基本家具
+ResearchInfo/Basic Storage,Text,,Basic Storage,基本存储
+ResearchInfo/Basic Tools,Text,,Based Tool,基于工具
+ResearchInfo/Basic Weapons,Text,,Basic Weapons,基本武器
+ResearchInfo/Blunt Weapons,Text,,Blunt Weapons,钝器
+ResearchInfo/Bookshelves,Text,,Bookshelves,书架
+ResearchInfo/Boots and Gauntlets,Text,,Boots And Gauntlets,靴子和护手
+ResearchInfo/Bowyer,Text,,Bowyer,制弓
+ResearchInfo/Bronze,Text,,Bronze,青铜
+ResearchInfo/Buckler,Text,,Buckler,圆盾
+ResearchInfo/Burning Oil,Text,,Burning Oil,燃烧的油
+ResearchInfo/Butchery,Text,,Butchery,屠宰
+ResearchInfo/Catapults,Text,,Catapults,石弩
+ResearchInfo/Cider,Text,,Cider,苹果酒
+ResearchInfo/Cloaks,Text,,Cloaks,披风
+ResearchInfo/Crossbows,Text,,Crossbows,弩
+ResearchInfo/Dining Rooms,Text,,Dining Rooms,餐厅
+ResearchInfo/Diplomacy,Text,,Diplomacy,外交
+ResearchInfo/Fences,Text,,Fences,围栏
+ResearchInfo/Food preservation,Text,,Food preservation,食物储藏
+ResearchInfo/Graves,Text,,Serious,坟墓
+ResearchInfo/Hauberk,Text,,Breastplate,胸甲
+ResearchInfo/Helmets,Text,,Helmets,头盔
+ResearchInfo/Jewelry,Text,,Jewellery,珠宝
+ResearchInfo/Juice,Text,,Juice,果汁
+ResearchInfo/Ladders,Text,,Ladders,梯子
+ResearchInfo/Lavish Meals,Text,,Lavish Meals,丰盛的饭菜
+ResearchInfo/Loom,Text,,Loom,织布机
+ResearchInfo/Metal Walls,Text,,Metal Walls,金属墙
+ResearchInfo/Metal Weapons,Text,,Metal Weapons,金属武器
+ResearchInfo/Metal working,Text,,Metal working,金属加工
+ResearchInfo/Necklaces,Text,,Necklace,项链
+ResearchInfo/Painting,Text,,Painting,绘画
+ResearchInfo/Palisade walls,Text,,Palisade walls,栅栏墙
+ResearchInfo/Pike,Text,,Pike,梭鱼
+ResearchInfo/Polearms,Text,,Polearms,长柄武器
+ResearchInfo/Reinforced Walls,Text,,Reinforced Walls,加固墙
+ResearchInfo/Rings,Text,,Rings,戒指
+ResearchInfo/Rock Salt,Text,,Rock Salt,岩盐
+ResearchInfo/Salt Works,Text,,Salt Works,制盐
+ResearchInfo/Smelting,Text,,Smelting,冶炼
+ResearchInfo/Statues,Text,,Statues,雕像
+ResearchInfo/Steel,Text,,Steel,钢
+ResearchInfo/Still,Text,,Still,酿酒台
+ResearchInfo/Stone Stairs,Text,,Stone Stairs,石台阶
+ResearchInfo/Stone Walls,Text,,Stone Walls,石墙
+ResearchInfo/Stonecrafting,Text,,Stonecrafting,石制品
+ResearchInfo/Temperature Regulation,Text,,Temperature Regulation,温度调节
+ResearchInfo/Thrown Weapons,Text,,Thrown Weapons,投掷武器
+ResearchInfo/Titanium,Text,,Titanium,钛
+ResearchInfo/Torches,Text,,Torches,火把
+ResearchInfo/Trinkets,Text,,Trinkets,饰品
+ResearchInfo/Two Handed Weapons,Text,,Two-Handed Weapon,双手武器
+ResearchInfo/Vodka,Text,,Vodka,伏特加
+ResearchInfo/Waterworks,Text,,Aqueduct,水工程
+ResearchInfo/Windows,Text,,Windows,窗户
+ResearchInfo/Wooden Stairs,Text,,Wooden Stairs,木台阶
+Researching,Text,,Researching,研究
+Reserved,Text,,Reserved,占有
+Reserved by job,Text,,,
+Right Hand,Text,,Right Hand,右手
+Room,Text,,Room,房间
+Room Quality,Text,,Room Quality,房间质量
+Save,Text,,Save,保存
+Save Game,Text,,Save Game,保存游戏
+Save Games,Text,,Save Games,保存游戏
+Save Load,Text,,Save / Load,保存/载入
+Save Name,Text,,Save Name,存档名
+Saving...,Text,,,
+Seek Healthcare,Text,,Seek Healthcare,寻求治疗
+Select a fresh water body for details. Fresh water is essential for the smooth running of a colony. Build a still near a water source to make drinks. Plants which are near water will grow faster. To make water flow upwards build pumps and windmills then connect them with mechanisms.,Text,,"Select a fresh water body for details.
+
+Fresh water is essential for the smooth running of a colony. Build a still near a water source to make drinks. Plants which are near water will grow faster.
+
+To make water flow upwards build pumps and windmills then connect them with mechanisms.","“选择一处淡水查看更多详细信息。
+
+淡水对于一个群落的发展是必不可少的。在水源附近建一个酿酒台来制作饮料。靠近水的植物生长得更快。
+
+为了使水向上流动，建造水泵和风车，然后用机械构件将它们连接起来。”"
+Select a room to see details. Rooms are automatically created when small areas are completely enclosed with only one or more doors as exits.,Text,,"Select a room to see details.
+
+Rooms are automatically created when small areas are completely enclosed with only one or more doors as exits.","“选择一个房间查看更多详细信息。
+
+当一块小区域完全封闭，只有一个或多个门作为出口时，会自动创建房间。”"
+Selected,Text,,Selected,选定
+Share your save game on the Steam Workshop.,Text,,Share your save game on the Steam Workshop.,在Steam创意工坊上分享您的存档
+Size,Text,,Size,尺寸
+Size limit,Text,,Size limit,尺寸限制
+SkillLevel/0,Text,,Dabbling,涉足
+SkillLevel/1,Text,,Novice,初学
+SkillLevel/10,Text,,Skilled,熟练
+SkillLevel/11,Text,,Skilled,熟练
+SkillLevel/12,Text,,Proficient,精通
+SkillLevel/13,Text,,Proficient,精通
+SkillLevel/14,Text,,Talented,天赋
+SkillLevel/15,Text,,Talented,天赋
+SkillLevel/16,Text,,Expert,专家
+SkillLevel/17,Text,,Professional,专业
+SkillLevel/18,Text,,Professional,专业
+SkillLevel/19,Text,,Accomplished,高超
+SkillLevel/2,Text,,Rookie,新秀
+SkillLevel/20,Text,,Great,极好
+SkillLevel/21,Text,,Master,驾驭
+SkillLevel/22,Text,,High Master,高手
+SkillLevel/23,Text,,Genius,天才
+SkillLevel/24,Text,,Grand Master,大师
+SkillLevel/25,Text,,Legendary,传奇
+SkillLevel/3,Text,,Beginner,新手
+SkillLevel/4,Text,,Mediocre,平庸
+SkillLevel/5,Text,,Passable,尚可
+SkillLevel/6,Text,,Adequate,合格
+SkillLevel/7,Text,,Average,普通
+SkillLevel/8,Text,,Competent,胜任
+SkillLevel/9,Text,,Competent,胜任
+SkillType/AnimalHusbandry,Text,,Animal Husbandry,驯养
+SkillType/Archery,Text,,Archery,箭术
+SkillType/ArmourMaking,Text,,Armour Making,制甲
+SkillType/BluntWeapons,Text,,Blunt Weapons,钝器
+SkillType/Bowyer,Text,,Bowyer,制弓
+SkillType/Brewing,Text,,Brewing,酿造
+SkillType/Carpentry,Text,,Carpentry,木工
+SkillType/Climbing,Text,,Climbing,攀爬
+SkillType/Cooking,Text,,Cooking,烹饪
+SkillType/Crafting,Text,,Crafting,制造
+SkillType/Dodging,Text,,Dodging,闪避
+SkillType/Farming,Text,,Farming,农业
+SkillType/Healthcare,Text,,Healthcare,医疗
+SkillType/Herbalism,Text,,Herbalism,草药
+SkillType/JewelryMaking,Text,,Jewelry Making,珠宝加工
+SkillType/Masonry,Text,,Masonry,石工
+SkillType/Mining,Text,,Mining,采矿
+SkillType/Researcher,Text,,Researcher,研究
+SkillType/Running,Text,,Running,奔跑
+SkillType/Shields,Text,,Shields,盾牌
+SkillType/SiegeEngineer,Text,,Siege Engineer,攻城专家
+SkillType/SlashWeapons,Text,,Slash Weapons,劈砍武器
+SkillType/Smelting,Text,,Smelting,冶炼
+SkillType/StabWeapons,Text,,Stab Weapons,突刺武器
+SkillType/WeaponMaking,Text,,Weapon Making,武器制作
+SkillType/Weaving,Text,,Weaving,纺织
+SkillType/Woodcutting,Text,,Woodcutting,伐木
+SkillType/Writing,Text,,Writing,写作
+Skills,Text,,Skills,技能
+Slash Damage,Text,,Slash Damage,刀伤
+Small,Text,,Small,小
+Snow,Text,,Snow,雪
+Some,Text,,,
+Space,Text,,Space,空间
+Speed,Text,,Speed,速度
+Squad on standby,Text,,Squad on standby,小队待命
+Stab Damage,Text,,Stab Damage,刺伤
+Stamina,Text,,Stamina,耐力
+Status,Text,,Status,状态
+Stockpile Presets,Text,,Stockpile Presets,库存预设
+Submit Save,Text,,Submit Save,提交保存
+Tasks,Text,,Tasks,任务
+Thoughts,Text,,Thoughts,思考
+Tiny,Text,,Tiny,极小的
+Too many beds ( -10 ),Text,,Too many beds ( -10 ),有太多的床（-10）
+Too many points!,Text,,Too many points!,点数太多了！
+Tool bonus,Text,,Tool bonus,工具加成
+Total,Text,,Total,总
+Trait,Text,,Trait,特征
+TraitInfo/Adventurous,Text,,Adventurous,爱冒险
+TraitInfo/Aggressive,Text,,Aggressive,好斗的
+TraitInfo/Annoying,Text,,Annoying,烦人的
+TraitInfo/Athletic,Text,,Athletic,健壮的
+TraitInfo/AttackSpeed__bad,Text,,Attack speed penalty,攻击速度惩罚
+TraitInfo/AttackSpeed__good,Text,,Attack speed bonus,攻击速度加成
+TraitInfo/Attractive,Text,,Attractive,有吸引力
+TraitInfo/BabyChance__bad,Text,,Infertile,不可生育
+TraitInfo/BabyChance__good,Text,,Fertile,可生育
+TraitInfo/Barely,Text,,Barely,勉强可能
+TraitInfo/Bold,Text,,Bold,大胆的
+TraitInfo/Boring,Text,,Boring,无趣的
+TraitInfo/Calm,Text,,Calm,冷静的
+TraitInfo/Careful,Text,,Careful,细心的
+TraitInfo/Careless,Text,,Careless,粗心的
+TraitInfo/Caring,Text,,Caring,乐于助人的
+TraitInfo/CarryWeight__bad,Text,,Can carry less items,只能携带较少的物品
+TraitInfo/CarryWeight__good,Text,,Can carry more items,可以携带更多的物品
+TraitInfo/Charming,Text,,Charming,迷人的
+TraitInfo/ChatHappiness__bad,Text,,Mood penalty from conversations,交谈中心情惩罚
+TraitInfo/ChatHappiness__good,Text,,Mood bonus from conversations,交谈中心情加成
+TraitInfo/Competitive,Text,,Competitive,好强的
+TraitInfo/Content,Text,,Content,满足的
+TraitInfo/Convincing,Text,,Convincing,可信的
+TraitInfo/Coward,Text,,Coward,胆小鬼
+TraitInfo/Decisive,Text,,Decisive,果断的
+TraitInfo/Dependable,Text,,Dependable,可靠的
+TraitInfo/Dim,Text,,Dim,暗淡的
+TraitInfo/Distrusting,Text,,Distrusting,不信任
+TraitInfo/DodgeChance__bad,Text,,Dodge chance penalty,闪避机会惩罚
+TraitInfo/DodgeChance__good,Text,,Dodge chance bonus,闪避机会加成
+TraitInfo/Extremely,Text,,Extremely,极端的
+TraitInfo/Extroverted,Text,,Extrovert,外向的
+TraitInfo/Fertile,Text,,Fertile,肥沃的
+TraitInfo/FoodQuantity__bad,Text,,Eats less,厌食
+TraitInfo/FoodQuantity__good,Text,,Eats more,贪食
+TraitInfo/FriendChance__bad,Text,,Does not make friends easily,孤僻的
+TraitInfo/FriendChance__good,Text,,Makes friends easily,好相处的
+TraitInfo/Greedy,Text,,Greedy,贪婪
+TraitInfo/Imaginative,Text,,Imaginative,富有想象力
+TraitInfo/Indecisive,Text,,Indecisive,优柔寡断
+TraitInfo/Industrious,Text,,Industrious,勤劳
+TraitInfo/Infertile,Text,,Infertile,不可生育
+TraitInfo/Insomia__bad,Text,,Sleeps more,贪睡
+TraitInfo/Insomia__good,Text,,Sleeps less,睡得少
+TraitInfo/Insomniac,Text,,Insomniac,失眠
+TraitInfo/Inspiring,Text,,Inspiring,鼓舞人心
+TraitInfo/Intelligent,Text,,Intelligent,悟性高
+TraitInfo/Introverted,Text,,Introverted,内向的
+TraitInfo/ItemQuality__bad,Text,,Penalty to quality of crafted items,制造物质量惩罚
+TraitInfo/ItemQuality__good,Text,,Bonus to quality of crafted items,制造物质量加成
+TraitInfo/Kind,Text,,Kind,友好的
+TraitInfo/Lazy,Text,,Lazy,懒惰
+TraitInfo/LearnSpeed__bad,Text,,Learns skills slower,学习更慢
+TraitInfo/LearnSpeed__good,Text,,Learns skills faster,学习更快
+TraitInfo/Mean,Text,,Mean,吝啬的
+TraitInfo/Methodical,Text,,Methodical,有条理的
+TraitInfo/MoodChangeSpeed__bad,Text,,Mood changes slower,情绪变化较慢
+TraitInfo/MoodChangeSpeed__good,Text,,Mood changes faster,情绪变化较快
+TraitInfo/Mood__bad,Text,,Lower base mood,较低的基础心情
+TraitInfo/Mood__good,Text,,Higher base mood,较高的基础心情
+TraitInfo/Morale__bad,Text,,Poor morale in combat,战斗中士气低落
+TraitInfo/Morale__good,Text,,Good morale in combat,战斗中士气高昂
+TraitInfo/NoJealous__bad,Text,,Does not get jealous,不会嫉妒
+TraitInfo/NoJealous__good,Text,,Easily jealous,容易嫉妒
+TraitInfo/Optimistic,Text,,Optimistic,乐观
+TraitInfo/Pessimistic,Text,,Pessimistic,悲观
+TraitInfo/ProspectingChance__bad,Text,,Bad at prospecting,不善于勘探
+TraitInfo/ProspectingChance__good,Text,,Good at prospecting,善于勘探
+TraitInfo/Psychopathic,Text,,Psychopathic,心理变态
+TraitInfo/ResearchSpeed__bad,Text,,Penalty to research speed,研究速度惩罚
+TraitInfo/ResearchSpeed__good,Text,,Bonus to research speed,研究速度加成
+TraitInfo/Resourceful,Text,,Resourceful,足智多谋
+TraitInfo/Scholarly,Text,,Scholarly,好学的
+TraitInfo/ShieldChance__bad,Text,,Penalty to shield block chance,护盾防御机会惩罚
+TraitInfo/ShieldChance__good,Text,,Bonus to shield block chance,护盾防御机会加成
+TraitInfo/Simple,Text,,Simple,普通的
+TraitInfo/Skill__bad,Text,,Learns {0} slower,学{0} 更慢
+TraitInfo/Skill__good,Text,,Learns {0} faster,学{0} 更快
+TraitInfo/Sleepy,Text,,Sleepy,瞌睡的
+TraitInfo/Slightly,Text,,Slightly,瘦小的
+TraitInfo/SquadLeaderMorale__bad,Text,,Poor squad leader,差的队长
+TraitInfo/SquadLeaderMorale__good,Text,,Good squad leader,优秀的队长
+TraitInfo/Strong,Text,,Strong,强壮的
+TraitInfo/Toughness__bad,Text,,Fragile,脆弱的
+TraitInfo/Toughness__good,Text,,Tough,强硬的
+TraitInfo/Trusting,Text,,Confident,自信的
+TraitInfo/Ugly,Text,,Ugly,丑陋的
+TraitInfo/Unathletic,Text,,Unathletic,不健壮的
+TraitInfo/Undemanding,Text,,Undemanding,低要求
+TraitInfo/Unimaginative,Text,,Unimaginative,缺乏创造力
+TraitInfo/Unreliable,Text,,Unreliable,不可信的
+TraitInfo/Unresourceful,Text,,Unresourceful,束手无策
+TraitInfo/Untrustworthy,Text,,Untrustworthy,不可靠的
+TraitInfo/Very,Text,,Very,十足的
+TraitInfo/WalkSpeed__bad,Text,,Slow runner,慢跑
+TraitInfo/WalkSpeed__good,Text,,Fast runner,快跑
+TraitInfo/Weak,Text,,Weak,虚弱的
+TraitInfo/WorkSpeed__bad,Text,,Penalty to crafting speed,制作速度惩罚
+TraitInfo/WorkSpeed__good,Text,,Bonus to crafting speed,制作速度加成
+Traits,Text,,Traits,特征
+Turned off,Text,,Turned off,关闭
+Uniform,Text,,Uniform,制服
+Uniforms,Text,,Uniforms,制服
+Unlocked,Text,,Unlocked,未上锁
+Unlocks,Text,,Unlocks,解锁
+Upgrade,Text,,Upgrade,升级
+Upload,Text,,Upload,上传
+Upload Bug Report,Text,,Upload Bug Report,发送错误报告
+Upload Mod,Text,,Upload Mod,上传Mod
+Upload Save,Text,,Upload Save,上传存档
+Upload or update your mod to the Steam Workshop.,Text,,Upload or update your mod to the Steam Workshop.,将您的Mod上传或更新至Stema创意工坊。
+Upload steam workshop,Text,,Upload steam workshop,上传至Steam创意工坊
+Upload your save game to help with finding bugs.,Text,,Upload your save game to help with finding bugs.,上传您的存档以帮助修复错误。
+Uploading,Text,,Uploading,上传中
+Use Medical Items,Text,,Use Medical Items,使用医疗物品
+Use barrels,Text,,Use barrels,使用桶
+Value,Text,,Value,值
+Version,Text,,Version,版本
+Very Small,Text,,Very Small,很小
+VeryHigh,Text,,,
+VeryLow,Text,,VeryLow,极低
+Vitals,Text,,Vitals,要害
+Warmth,Text,,Warmth,热情
+"Warning, starting area is {0} water.",Text,,"Warning, starting area is {0} water.",警告，起始区域水量为{0}。
+"Warning, temperatures are low in this area ({0}). Lower temperatures make starting out harder.",Text,,"Warning, temperatures are low in this area ({0}). Lower temperatures make starting out harder.",警告，此区域温度较低（{0}）。低温会使开始更艰难。
+Water,Text,,Water,水
+Weight,Text,,Weight,重量
+Workers will not havest plants which have not yet reached maturity.,Text,,Workers will not havest plants which have not yet reached maturity.,工人不能收获尚未成熟的植物。
+Worn,Text,,Worn,旧的
+Yes,Text,,Yes,是的
+bed,Text,,bed,床
+crash,Text,,crash,崩溃
+edit uniforms,Text,,edit uniforms,编辑制服
+find items on floor,Text,,find items on floor,在地板上找到物品
+floor,Text,,floor,地板
+"from colonist,",Text,,,
+from job,Text,,,
+from job.,Text,,,
+healthcare settings,Text,,healthcare settings,医疗设施
+hits,Text,,hits,点击
+menu,Text,,menu,菜单
+mods,Text,,mods,MOD
+no,Text,,no,不
+ok,Text,,ok,好的
+per day,Text,,per day,每天
+points,Text,,points,点数
+replace,Text,,replace,替换
+replace walls or floor,Text,,replace walls or floor,替换墙壁或地板
+selected,Text,,selected,选定
+size,Text,,size,尺寸
+tables and chairs,Text,,tables and chairs,桌椅
+upload,Text,,upload,上传
+walls,Text,,walls,墙
+walls and floor,Text,,walls and floor,墙和地板
+workshop,Text,,workshop,工坊
+{0} years {1} months,Text,,{0} years {1} months,{0}年{1}月
+{0}{1}Select items which will be used to make {2}.,Text,,{0} {1} Select the items to use to create {2}.,{0} {1}选择用于创建{2}的部分。
