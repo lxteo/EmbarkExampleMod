@@ -1,6 +1,9 @@
 # ModInfo.xml
 This must be included in every mod with name and description tags. Place it, and any other files inside %userprofile%\appdata\locallow\embark\embark\mods\\(your mod name) folder. Mods can include any combination of the options below. You may include an image file named screenshot.jpg/png inside to be used as the steam workshop preview image. You should then see your mod inside the mod panel when you run Embark. Use that to upload your mod to the Steam workshop when you are happy with your mod.
 
+# Issue with Updating after initial upload (Will be fixed in future versions)
+If you're using the visual studio solution in the example mode, you should remove the line xcopy /y "$(TargetDir)ModInfo.xml" "%userprofile%\appdata\locallow\Embark\Embark\mods\$(SolutionName)" from your Build Events after the initial upload. Otherwise it will overwrite the file and Embark won't give you the option to update your mod. ModInfo.xml should have a <publishId>(your workshop item ID)</publishId> line after you've successfully uploaded a mod.
+
 # Changes to XML
 A lot of Embark's gameplay can be changed simply by changing the XML files in the StreamingAssets folder. Any xml files inside your mod's folder will be loaded if they have the same name as one of Embark's XML files.
 Each entry will be replaced if found and it has the same id as a default entry. For files like BuildingInfo.xml which have multiple ids you should only include those you modify, for other files like MiscSettingsInfo.xml you will have to include everything as there is only one id.
@@ -15,5 +18,5 @@ If your mod requires persistant data to be saved with each save game you can do 
 # Localization
 A localizaiton mod would include a localization.csv file and a ModInfo.xml file. Use the example localization.csv to see the terms used by Embark. Contact me if you want to translate languages which require special characters.
 
-# Changes to art assets
-Not available yet.
+# Changes to Terrain Textures
+View the terrain Texture example mod: https://github.com/lxteo/EmbarkTerrainTextureExampleMod
