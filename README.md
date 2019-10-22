@@ -1,3 +1,5 @@
+Join our Discord if you have any questions! https://discord.gg/cbUNUVk
+
 # ModInfo.xml
 This must be included in every mod with name and description tags. Place it, and any other files inside %userprofile%\appdata\locallow\embark\embark\mods\\(your mod name) folder. Mods can include any combination of the options below. You may include an image file named screenshot.jpg/png inside to be used as the steam workshop preview image. You should then see your mod inside the mod panel when you run Embark. Use that to upload your mod to the Steam workshop when you are happy with your mod.
 
